@@ -2,4 +2,6 @@ This is a list of people:
 Fred
 linda
 Henry
+Daniel
+Sam
 This is a new change
